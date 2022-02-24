@@ -1,0 +1,6 @@
+<launch>
+	<include file="$(find tld_tracker)/launch/ros_tld_tracker.launch" />
+	<include file="$(find tld_tracker)/launch/ros_tld_gui.launch" />
+	<node pkg="baxter_project" name="twister" type="image_jacobian.py"/>
+</launch>
+

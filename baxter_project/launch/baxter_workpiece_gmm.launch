@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="baxter_project" name="workpiece" type="image_jacobian_workpiece.py" output="screen"/>
+        <node pkg="baxter_project" name="baxter_workpiece" type="baxter_workpiece_gmm_pick.py" output="screen" respawn="false"/>
+</launch>
+
