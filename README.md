@@ -1,8 +1,13 @@
 official code for 
-
-S. Xu, K. Chen, Y. Ou, Z. Wang and C. Yang, "A Learning-Based Object Tracking Strategy Using Visual Sensors and Intelligent Robot Arm," in IEEE Transactions on Automation Science and Engineering, vol. 20, no. 4, pp. 2280-2293, Oct. 2023, doi: 10.1109/TASE.2022.3213730.
-
-```bash
-# wstool init
-wstool update
 ```
+@ARTICLE{9921330,
+  author={Xu, Sheng and Chen, Kai and Ou, Yongsheng and Wang, Zhiyang and Yang, Chenguang},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={A Learning-Based Object Tracking Strategy Using Visual Sensors and Intelligent Robot Arm}, 
+  year={2023},
+  volume={20},
+  number={4},
+  pages={2280-2293},
+  doi={10.1109/TASE.2022.3213730}}
+```
+
